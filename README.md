@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="me-in-cartoon.png" width="150"/>
+  <img src="Me-in-cartoon.png" width="150"/>
 </p>
 
 <h1 align="center">Brian Montiel</h1>
