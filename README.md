@@ -2,22 +2,18 @@
   <img src="Me-in-cartoon.png" width="100%"/>
 </p>
 
-<h1 align="center">⚔️ Brian Montiel ⚔️</h1>
+<h1 align="center">Brian Montiel</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=24&pause=800&color=FF0000&center=true&vCenter=true&width=600&lines=Security+Analyst.+GRC+Engineer.+Hacker.;Train+Hard.+Hack+Harder.;Boxing+%7C+Muay+Thai+%7C+Judo;Built+in+Washington+DC." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1200&color=00D4FF&center=true&vCenter=true&multiline=false&width=550&lines=GRC+Engineer+%7C+Security+Analyst+%7C+Hacker;Washington%2C+DC+%F0%9F%87%BA%F0%9F%87%B8;Building+at+the+intersection+of+security+%26+compliance" alt="Typing SVG" />
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/-%F0%9F%A5%8A%20MMA%20FIGHTER-CC0000?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/-%F0%9F%94%90%20HACKER-1a1a1a?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/-%E2%98%81%EF%B8%8F%20CLOUD%20SECURITY-0a0a0a?style=for-the-badge"/>
-</p>
+<br/>
 
 <p align="center">
-  <a href="https://brianmontiel.netlify.app/"><img src="https://img.shields.io/badge/Website-FF0000?style=for-the-badge&logo=About.me&logoColor=white"/></a>&nbsp;
-  <a href="https://www.linkedin.com/in/brian-montiel-95b38b239/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>&nbsp;
-  <a href="https://medium.com/@bnight01"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"/></a>
+  <a href="https://brianmontiel.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-00D4FF?style=flat-square&logo=About.me&logoColor=black"/></a>&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/brian-montiel-95b38b239/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/></a>&nbsp;&nbsp;
+  <a href="https://medium.com/@bnight01"><img src="https://img.shields.io/badge/Medium-ffffff?style=flat-square&logo=medium&logoColor=black"/></a>
 </p>
 
 ---
