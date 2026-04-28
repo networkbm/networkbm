@@ -11,13 +11,6 @@
   <a href="https://medium.com/@bnight01">Medium</a>
 </p>
 
-<br/>
-
-<p align="center">
-  <a href="https://brianmontiel.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-00D4FF?style=flat-square&logo=About.me&logoColor=black"/></a>&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/brian-montiel-95b38b239/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/></a>&nbsp;&nbsp;
-  <a href="https://medium.com/@bnight01"><img src="https://img.shields.io/badge/Medium-ffffff?style=flat-square&logo=medium&logoColor=black"/></a>
-</p>
 
 ---
 
