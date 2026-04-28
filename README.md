@@ -3,13 +3,13 @@
 </p>
 
 <h1 align="center">Brian Montiel</h1>
-<p align="center">Security Analyst · GRC Engineer · Hacker</p>
-<p align="center">Washington, DC</p>
-<p align="center">
+<h3 align="center">Security Analyst · GRC Engineer · Hacker</h3>
+<h4 align="center">Washington, DC</h4>
+<h3 align="center">
   <a href="https://brianmontiel.netlify.app/">Website</a> ·
   <a href="https://www.linkedin.com/in/brian-montiel-95b38b239/">LinkedIn</a> ·
   <a href="https://medium.com/@bnight01">Medium</a>
-</p>
+</h3>
 
 
 ---
