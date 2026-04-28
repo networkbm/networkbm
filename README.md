@@ -3,12 +3,19 @@
 </p>
 
 <h1 align="center">Brian Montiel</h1>
-<p align="center">Security Analyst · GRC Engineer · Hacker</p>
-<p align="center">Washington, DC</p>
+
 <p align="center">
-  <a href="https://brianmontiel.netlify.app/">Website</a> ·
-  <a href="https://www.linkedin.com/in/brian-montiel-95b38b239/">LinkedIn</a> ·
-  <a href="https://medium.com/@bnight01">Medium</a>
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=FF4500&center=true&vCenter=true&width=500&lines=Security+Analyst;GRC+Engineer;Hacker+%26+Builder;FedRAMP+%7C+NIST+800-53+%7C+Cloud+Security" alt="Typing SVG" />
+  </a>
+</p>
+
+<p align="center">📍 Washington, DC</p>
+
+<p align="center">
+  <a href="https://brianmontiel.netlify.app/"><img src="https://img.shields.io/badge/Website-FF4500?style=for-the-badge&logo=About.me&logoColor=white"/></a>&nbsp;
+  <a href="https://www.linkedin.com/in/brian-montiel-95b38b239/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>&nbsp;
+  <a href="https://medium.com/@bnight01"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"/></a>
 </p>
 
 ---
