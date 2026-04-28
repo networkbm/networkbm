@@ -2,10 +2,12 @@
   <img src="Me-in-cartoon.png" width="100%"/>
 </p>
 
-<h1 align="center">Brian Montiel</h1>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=36&pause=9999&color=00D4FF&center=true&vCenter=true&width=600&lines=Brian+Montiel" alt="Name" />
+</p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1200&color=00D4FF&center=true&vCenter=true&multiline=false&width=550&lines=GRC+Engineer+%7C+Security+Analyst+%7C+Hacker;Washington%2C+DC+%F0%9F%87%BA%F0%9F%87%B8;Building+at+the+intersection+of+security+%26+compliance" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=16&pause=1200&color=FFFFFF&center=true&vCenter=true&width=700&lines=GRC+Engineer+%7C+Security+Analyst+%7C+Hacker;Washington%2C+DC+%F0%9F%87%BA%F0%9F%87%B8;Building+at+the+intersection+of+security+%26+compliance" alt="Typing SVG" />
 </p>
 
 <br/>
