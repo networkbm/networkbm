@@ -15,7 +15,7 @@
 
 ### About Me
 
-Security analyst, hacker, and builder focused on FedRAMP, cloud security, and building tools that make compliance work less painful. By day I run NIST 800-53 assessments across AWS, GCP, and Azure. Outside work I'm in the gym training boxing, Muay Thai, and Judo or trying a restaurant I've never been to before. Always open to collaborating on security and GRC projects.
+Security analyst, hacker, and builder focused on FedRAMP, cloud security, and building tools that make compliance work less painful. By day I run NIST 800-53 assessments across AWS, GCP, and Azure. Outside work I'm in the gym training Boxing, Muay Thai, and Judo or trying a restaurant I've never been to before. Always open to collaborating on security and GRC projects.
 
 ---
 
