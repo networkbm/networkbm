@@ -3,7 +3,22 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=36&pause=9999&color=00D4FF&center=true&vCenter=true&width=600&lines=Brian+Montiel" alt="Name" />
+<svg width="500" height="80" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="grad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#00D4FF">
+        <animate attributeName="stop-color" values="#00D4FF;#FF4500;#FF0000;#00D4FF" dur="4s" repeatCount="indefinite"/>
+      </stop>
+      <stop offset="50%" style="stop-color:#FF4500">
+        <animate attributeName="stop-color" values="#FF4500;#00D4FF;#FF4500;#FF4500" dur="4s" repeatCount="indefinite"/>
+      </stop>
+      <stop offset="100%" style="stop-color:#FF0000">
+        <animate attributeName="stop-color" values="#FF0000;#FF4500;#00D4FF;#FF0000" dur="4s" repeatCount="indefinite"/>
+      </stop>
+    </linearGradient>
+  </defs>
+  <text x="50%" y="55" font-family="Fira Code, monospace" font-size="42" font-weight="700" fill="url(#grad)" text-anchor="middle">Brian Montiel</text>
+</svg>
 </p>
 
 <p align="center">
