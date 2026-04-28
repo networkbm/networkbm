@@ -2,27 +2,13 @@
   <img src="Me-in-cartoon.png" width="100%"/>
 </p>
 
+<h1 align="center">Brian Montiel</h1>
+<p align="center">Security Analyst · GRC Engineer · Hacker</p>
+<p align="center">Washington, DC</p>
 <p align="center">
-<svg width="500" height="80" xmlns="http://www.w3.org/2000/svg">
-  <defs>
-    <linearGradient id="grad" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" style="stop-color:#00D4FF">
-        <animate attributeName="stop-color" values="#00D4FF;#FF4500;#FF0000;#00D4FF" dur="4s" repeatCount="indefinite"/>
-      </stop>
-      <stop offset="50%" style="stop-color:#FF4500">
-        <animate attributeName="stop-color" values="#FF4500;#00D4FF;#FF4500;#FF4500" dur="4s" repeatCount="indefinite"/>
-      </stop>
-      <stop offset="100%" style="stop-color:#FF0000">
-        <animate attributeName="stop-color" values="#FF0000;#FF4500;#00D4FF;#FF0000" dur="4s" repeatCount="indefinite"/>
-      </stop>
-    </linearGradient>
-  </defs>
-  <text x="50%" y="55" font-family="Fira Code, monospace" font-size="42" font-weight="700" fill="url(#grad)" text-anchor="middle">Brian Montiel</text>
-</svg>
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=16&pause=1200&color=FFFFFF&center=true&vCenter=true&width=700&lines=GRC+Engineer+%7C+Security+Analyst+%7C+Hacker;Washington%2C+DC+%F0%9F%87%BA%F0%9F%87%B8;Building+at+the+intersection+of+security+%26+compliance" alt="Typing SVG" />
+  <a href="https://brianmontiel.netlify.app/">Website</a> ·
+  <a href="https://www.linkedin.com/in/brian-montiel-95b38b239/">LinkedIn</a> ·
+  <a href="https://medium.com/@bnight01">Medium</a>
 </p>
 
 <br/>
